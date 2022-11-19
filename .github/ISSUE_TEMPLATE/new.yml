@@ -1,0 +1,20 @@
+name: New entry
+description: Suggest an addition
+title: "[NEW]: "
+labels: [new]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: 
+      placeholder: "What's the firm? How were they exposed to FTX? What actions have they taken, if any (filing bankruptcy, pausing withdrawals, layoffs, etc.)?"
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Please include a link where I can verify
+    validations:
+      required: true
