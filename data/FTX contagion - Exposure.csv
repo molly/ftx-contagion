@@ -1,0 +1,67 @@
+Company,Country (HQ if distributed),Description,Exposure,Status,Source
+FTX acquisitions,,,,,
+Liquid,Japan,exchange,acquired April 2021,trading paused November 20,https://twitter.com/Liquid_Global/status/1594312869411450880
+LedgerX,USA,clearinghouse,acquired October 2021,seeking acquisition as of December 2,https://www.bloomberg.com/news/articles/2022-12-03/ftx-s-ledgerx-is-up-for-sale-as-restructuring-process-picks-up
+,,,,,
+Other FTX exposure,,,,,
+Voyager,USA,broker,"pending acquisition canceled
+~$3M balance locked on FTX","seeking acquisition
+bankruptcy (predates FTX collapse; July 6, 2022)",https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+Celsius,USA,lending,"🔒 3.5M $SRM (~$2.625M based on price pre-FTX collapse)
+$13M in loans to Alameda Research","bankruptcy (predates FTX collapse; July 13, 2022)",https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+BlockFi,USA,lending,"$671M in loans to Alameda Research
+🔒 $355M
+$400M line of credit from FTX no longer available","withdrawals halted November 10
+bankruptcy filed November 28","https://www.wsj.com/articles/blockfi-prepares-for-potential-bankruptcy-as-crypto-contagion-spreads-11668534824
+https://decrypt.co/115965/ftx-alameda-owe-blockfi-1-billion-bankruptcy"
+Hodlnaut,Singapore,lending,🔒 $13M,"creditor protection (predates FTX collapse; August 16, 2022)",https://www.coindesk.com/business/2022/11/10/troubled-crypto-lender-hodlnaut-had-18m-on-ftx-before-withdrawal-freeze/
+Vauld,Singapore,exchange,🔒 $10M,"creditor protection (predates FTX collapse; July 8, 2022)",https://www.theblock.co/post/188021/troubled-crypto-lender-vauld-has-10-million-stuck-on-ftx-source
+Digital Surge,Australia,exchange,?,"withdrawals halted November 15
+entered voluntary administration December 9",https://www.afr.com/technology/treasury-pledges-crypto-regulation-next-year-after-ftx-collapse-20221116-p5bytc
+Auros Global,,trading firm,🔒 $20M,bankruptcy protection filed December 20,https://www.theblock.co/post/196418/auros-bankruptcy-filing-ftx
+Orthogonal Trading,USA,trading firm,?,"insolvent
+owes $36M in loans to M11 Credit via Maple Finance",https://www.theblock.co/post/192097/maple-finance-default-orthogonal-trading
+M11 Credit,Netherlands,lender,"$10.5M missed loan payments from Auros Global (via Maple Finance)
+$36M in loans to insolvent Orthogonal Trading (via Maple Finance)",,https://www.coindesk.com/markets/2022/12/05/maple-finance-severs-ties-with-orthogonal-trading-alleging-it-misrepresented-financial-position/
+Nexus Mutual,UK,defi insurance,$3 million loss due to exposure to Orthogonal Credit's loan from M11 Credit via Maple Finance,,https://www.theblock.co/post/192230/nexus-mutual-moves-to-divest-expects-3-million-loss-with-maple-finance
+Genesis Digital,USA,institutional trading,"🔒 $175M (derivatives branch)
+unknown additional exposure",lending branch halted withdrawals November 16,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+Donut,USA,defi,lending partnership with Genesis,withdrawals halted November 16,https://twitter.com/donutapp/status/1592965344268025856
+Gemini,USA,platform,🔒 $900M customer funds on Genesis,withdrawals halted from Earn product November 16,https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974
+Coinhouse,France,platform,counterparty to Genesis,"withdrawals halted from ""Savings accounts"" November 17",https://twitter.com/CoinhouseHQ/status/1593198640914632704
+GOPAX,South Korea,exchange,counterparty to Genesis,withdrawals halted November 17,https://twitter.com/CoinhouseHQ/status/1593198640914632704
+?,,,🔒 $900M customer funds on Genesis,,https://www.coindesk.com/business/2022/12/04/genesis-creditor-groups-loans-amount-to-18b-and-counting-sources/
+Bitvo,Canada,exchange,pending acquisition canceled,,https://www.reuters.com/technology/canadas-bitvo-ends-acquisition-deal-with-bankrupt-crypto-exchange-ftx-2022-11-15/
+Salt,USA,lending,?,withdrawals halted November 15,https://www.coindesk.com/business/2022/11/15/online-investing-platform-bnktothefuture-drops-plan-to-acquire-crypto-lender-salt-lending-due-to-ftx-exposure/
+Nestcoin,Nigeria,web3 startup,"🔒 $4M, ""nearly all"" assets",laying off 50% of staff as of November 14,https://www.ft.com/content/d45310c9-4f8c-4349-b9bb-c8edb5d2863f
+Binance,,exchange,🔒 FTT priced at $580M based on price pre-FTX collapse,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+BitDAO,,DAO,"BitDAO holds 3.36M $FTT with agreement not to sell before Nov 2024
+Alameda holds 100M $BIT with agreement not to sell before Nov 2024",,https://www.coindesk.com/markets/2022/11/08/bitdao-community-asks-alameda-for-proof-of-fund-after-tokens-sudden-20-drop-threatens-to-dump-ftt/
+Solana Foundation,Switzerland,non-profit,"🔒 $1M
+🔒 $FTT, $SRM, etc. valued at ~$160M before FTX collapse",,https://solana.com/news/solana-facts-ftx-bankruptcy
+Galois Capital,USA,hedge fund,🔒 ~$100M (50% of assets),,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+Galaxy Digital,USA,financial services,🔒 $76.8M,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+CoinShares,UK,investment firm,🔒 $30.3M,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+Huobi (HBIT subsidiary),Seychelles,exchange,🔒 $18.1M,,https://cointelegraph.com/news/former-huobi-linked-entity-says-it-has-18-1-million-stuck-on-ftx
+Coinbase,USA,exchange,🔒 $15M,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+BitFuFu,Hong Kong,mining,🔒 $11.7M,,https://www.forbes.com/sites/zinnialee/2022/11/21/bitmain-backed-crypto-mining-company-among-creditors-of-sam-bankman-frieds-ftx/
+Layer Zero,Canada,cross-chain products,🔒 $11.5M,,https://twitter.com/PrimordialAA/status/1590764525875499008?s=20&t=V_kTOSWauMd_2AA8vygsAg
+Steaker,Taiwan,investment platform,🔒 $10.7M,,https://steaker.com/en-US/steaker-news/updates-on-ftx-crash-en
+Crypto​.com,Singapore,exchange,🔒 <$10M,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/
+DLocal,Uruguay,fintech,🔒 $5.6M,,https://www.binance.com/en/news/top/7286389
+LiquidMeta,Canada,defi infrastructure,🔒 $4.3M,,https://www.coindesk.com/business/2022/11/09/who-still-has-exposure-to-ftx/
+Sino Global Capital,Bahamas,venture fund,"🔒 ""mid seven figures""",,https://twitter.com/SinoGlobalCap/status/1592418951115329536
+Oxygen,,blockchain,🔒 95% of token supply,,https://www.coindesk.com/business/2022/11/15/tokens-of-alameda-backed-defi-projects-mapsme-and-oxygen-locked-up-at-ftx/
+Maps​.me,,defi project,🔒 95% of token supply,,https://www.coindesk.com/business/2022/11/15/tokens-of-alameda-backed-defi-projects-mapsme-and-oxygen-locked-up-at-ftx/
+Star Atlas,,video game,🔒 50% of cash treasury,,https://twitter.com/at_mwagner/status/1591178746085527552
+Multicoin Capital,USA,venture capital,🔒 10% of assets,,https://www.coindesk.com/business/2022/11/09/who-still-has-exposure-to-ftx/
+Amber Group,Singapore,trading firm,🔒 <10% of trading capital,,https://www.coindesk.com/business/2022/11/09/who-still-has-exposure-to-ftx/
+GSR,UK,trading firm,🔒 <10% of cash,,https://www.theblock.co/post/185315/crypto-trading-firm-gsr-will-cover-client-losses-from-ftx-collapse-will-no-longer-trade-on-huobi
+Selini Capital,,trading firm,🔒 3% of assets,,https://www.theblock.co/post/185138/which-crypto-companies-have-exposure-to-ftx
+Ikigai Asset Management,USA,hedge fund,"🔒 ""large majority of assets""",,https://www.coindesk.com/business/2022/11/14/ikigai-asset-management-had-large-majority-of-assets-on-ftx/
+Mechanism Capital,,crypto investment firm,"🔒 ""non-trivial amount""",,https://www.theblock.co/post/185838/mechanism-capital-among-funds-with-assets-stuck-in-ftx-exploring-legal-options
+Matrixport,Singapore,lender,79 clients exposed via products on their platform,,https://www.coindesk.com/business/2022/11/11/matrixports-btc-fixed-income-product-affected-by-ftxs-collapse/
+Jump,USA,trading firm,?,,https://twitter.com/jump_/status/1591545851603988481
+Pantera Capital,USA,hedge fund,?,,https://www.coindesk.com/business/2022/11/09/who-still-has-exposure-to-ftx/
+Animoca Brands,Hong Kong,gaming company,?,,https://www.theblock.co/post/186085/animoca-brands-reveals-limited-ftx-exposure-after-sbfs-empire-collapses
+Folkvang,,trading firm,?,,https://www.theblock.co/post/185879/alameda-backed-trading-shop-folkvang-says-it-can-easily-absorb-hit-from-ftx-exposure
