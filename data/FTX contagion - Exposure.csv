@@ -2,10 +2,12 @@ Company,Country (HQ if distributed),Description,Exposure,Status,Source,Notes
 FTX acquisitions,,,,,,
 Liquid,Japan,exchange,acquired April 2021,trading paused November 20,https://twitter.com/Liquid_Global/status/1594312869411450880,
 LedgerX,USA,clearinghouse,acquired October 2021,seeking acquisition as of December 2,https://www.bloomberg.com/news/articles/2022-12-03/ftx-s-ledgerx-is-up-for-sale-as-restructuring-process-picks-up,
-Ren Protocol,,protocol,acquired Feb 2021,"seeking new funding, sunsetting v1 of their project",https://blockworks.co/news/alameda-backed-ren-warns-crypto-could-be-lost-as-platform-shuts-down,
+Ren Protocol,,protocol,acquired February 2021,"seeking new funding, sunsetting v1 of their project",https://blockworks.co/news/alameda-backed-ren-warns-crypto-could-be-lost-as-platform-shuts-down,
 Voyager,USA,broker,"pending acquisition canceled
 ~$3M balance locked on FTX","seeking acquisition
 bankruptcy (predates FTX collapse; July 6, 2022)",https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/,
+Blockfolio,USA,portfolio tracker,"purchased majority stake in August 2020
+94% of $84M denominated in FTT",,https://www.bloomberg.com/news/articles/2022-12-22/ftx-paid-for-blockfolio-deal-mostly-in-ftt-token-it-invented,
 FTT holders,,,,,,
 Binance,,exchange,🔒 FTT priced at $580M based on price pre-FTX collapse,,https://www.reuters.com/technology/binance-voyager-crypto-firms-exposure-ftx-is-coming-light-2022-11-14/,
 BitDAO,,DAO,"BitDAO holds 3.36M $FTT with agreement not to sell before Nov 2024
