@@ -1,4 +1,6 @@
 Company,Country (HQ if distributed),Relationship,Source
 Silvergate,USA,"FTX's primary banking partnership
-FTX represented 10% of overall deposits",https://www.bloomberg.com/opinion/articles/2022-11-22/silvergate-provident-signature-were-banks-holding-the-bag-in-ftx-implosion
+FTX represented 10% of overall deposits
+<$2.5M deposits from Genesis","https://www.bloomberg.com/opinion/articles/2022-11-22/silvergate-provident-signature-were-banks-holding-the-bag-in-ftx-implosion
+https://www.businesswire.com/news/home/20230120005474/en/Silvergate-Provides-Statement-on-Limited-Exposure-to-Genesis"
 Signature Bank,USA,FTX represented <0.1% of overall deposits,barrons.com/articles/signature-bank-stock-price-ftx-51668539447
